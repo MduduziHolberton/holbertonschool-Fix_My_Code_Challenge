@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """Main program"""
 
-
 class Square:
     """Defines the square class"""
     width = 0
